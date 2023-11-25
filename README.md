@@ -1,9 +1,9 @@
 # ffmpeg_encoder
-Required packages: ffmpeg
+Required packages: 
+- ffmpeg
+- mediainfo
 
-The variable
-
+Change Variable to the directory, contains .mkv files
 dir=
 
-requires the path to the folder containing the .mkv files whose audio codec is to be encoded to ac3.
 The script saves the new file in a subfolder $dir/encoded
