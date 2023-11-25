@@ -1,4 +1,6 @@
 # ffmpeg_encoder
+Encode not supported Audio Codecs by your Device, with an AC3 Codec
+
 Required packages: 
 - ffmpeg
 - mediainfo
